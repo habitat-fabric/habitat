@@ -1,0 +1,2 @@
+# HGW
+Simple stub project
